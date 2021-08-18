@@ -15,8 +15,8 @@ object DM: TDM
         'Driver270.bpl'
       'FailIfMissing=True'
       
-        'Database=D:\Documentos\Embarcadero\Studio\Projects\logsoftplan.d' +
-        'b')
+        'Database=D:\Documentos\Embarcadero\Studio\Projects\Win32\Debug\l' +
+        'ogsoftplan.db')
     Left = 48
     Top = 64
   end
